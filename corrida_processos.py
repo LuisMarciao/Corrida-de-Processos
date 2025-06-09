@@ -42,7 +42,7 @@ class CorridaDeProcessosApp:
         self.barras.clear()
 
 
-        nomes = ["A", "B", "C", "D", "E"]
+        nomes = ["🐢 Tartaruga", "🐇 Coelho", "🚀 Foguete", "🏎️ Fórmula 1", "🦥 Bicho-Preguiça"]
         random.shuffle(nomes)
         n_processos = random.randint(3, 5)
 

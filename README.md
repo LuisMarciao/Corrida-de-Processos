@@ -53,7 +53,7 @@ Cada processo recebe um tempo de CPU fixo (quantum).
 Os processos se revezam até que todos terminem.
 
 ## Extras e diversão
-Os nomes dos processos são aleatórios (ex: A, B, C...).
+Os nomes dos processos são aleatórios (ex: 🐢 Tartaruga, 🐇 Coelho, 🚀 Foguete, 🏎️ Fórmula 1, 🦥 Bicho-Preguiça).
 
 A interface mostra a corrida de forma visual e clara.
 
@@ -79,4 +79,7 @@ README.md — Instruções de uso e explicação
 
 ## Autor
 Luis Arthur Vasconcellos Marciao
+
+## Uso de IA
+Usado IA apenas para a parte dos nomes dos processos (ex: 🐢 Tartaruga, 🐇 Coelho, 🚀 Foguete, 🏎️ Fórmula 1, 🦥 Bicho-Preguiça).
 
